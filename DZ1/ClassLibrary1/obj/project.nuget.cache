@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OG0T7WEtA9gm7BOd2kHId41wdrwFZSDhHFkyEZssid7wKkOYOkvWe+VYpaxBvTp4YRDe7BBeF/2Z+Wt9DyA/hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OsiRis\\Desktop\\OOP\\Zadaca\\DZ1\\ClassLibrary1\\Zad_1_Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OsiRis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\OsiRis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Zad_1_Console/1.0.0": {
+        "dependencies": {
+          "Zad_1_Lib": "1.0.0"
+        },
+        "runtime": {
+          "Zad_1_Console.dll": {}
+        }
+      },
+      "Zad_1_Lib/1.0.0": {
+        "runtime": {
+          "Zad_1_Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zad_1_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zad_1_Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
